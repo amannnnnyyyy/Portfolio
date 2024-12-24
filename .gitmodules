@@ -4,3 +4,6 @@
 [submodule "vite-react"]
 	path = vite-react
 	url = ./vite-react
+[submodule "threeJs-portfolio"]
+	path = threeJs-portfolio
+	url = ./threeJs-portfolio
