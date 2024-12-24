@@ -1,3 +1,6 @@
 [submodule "basic"]
 	path = basic
 	url = ./basic
+[submodule "vite-react"]
+	path = vite-react
+	url = ./vite-react
