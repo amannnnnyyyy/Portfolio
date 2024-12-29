@@ -3,4 +3,4 @@
 	url = ./basic
 [submodule "threeJs-portfolio"]
 	path = threeJs-portfolio
-	url = ./threeJs-portfolio
+	url = https://github.com/amannnnnyyyy/PortfolioWebsite.git
